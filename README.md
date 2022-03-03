@@ -21,7 +21,7 @@ TOKEN={YOUR TOKEN HERE} npm start
 
 ## License
 
-The [2-clause BSD license](https://opensource.org/licenses/BSD-2-Clause/) with the [Commons Clause](https://commonsclause.com/).
+The [3-clause BSD license](https://opensource.org/licenses/BSD-3-Clause/) with the [Commons Clause](https://commonsclause.com/).
 
 That is, you can use, change and re-distribute it for as long as you don't try and sell it.
 
